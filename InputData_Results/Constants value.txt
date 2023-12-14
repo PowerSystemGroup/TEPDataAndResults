@@ -1,0 +1,23 @@
+-----------Model-----------
+Solar/Wind curtailment penalty cost = 0.0536 $/MWh
+Maximum angle difference  = 0.415
+Discount rate = 0.095
+M = 1000
+N = 4
+Y = 5
+------------Solar------------
+Power under standard test condition for PV panels = 300
+Power-temperature coefficient of solar sells = -0.38
+NOCT = 45
+6-bus, 24-bus and the first PV plant of 118-bus system: Number of PV panels = 700000
+The first PV plant of 118-bus system: Number of PV panels = 400000
+------------Wind------------
+Cut-in speed = 4.00
+Rated speed = 13.61
+Cut-out speed = 25.00
+Single wind turbine rated power = 2
+Wind shear coefficient = 0.143 (1/7)
+H1 = 100
+H2 = 75
+
+
