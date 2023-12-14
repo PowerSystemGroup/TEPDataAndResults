@@ -1,2 +1,2 @@
 # TEPDataAndResults
-This repository contains the input data and detailed results for the transmission expansion planning study.
+This repository contains input data, constants value and running results of paper "A Chronological Transmission Expansion Planning Method and Its Comparison with Stochastic Planning".
